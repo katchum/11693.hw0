@@ -4,8 +4,8 @@
 	<artifactId>hw0-xings</artifactId>
 	<version>0.0.1</version>
 	<scm>
-		<connection>scm:git:git@github.com:katchum/11693.hw0</connection>
-		<developerConnection>scm:git:git@github.com:katchum/11693.hw0</developerConnection>
+		<connection>scm:git:git://github.com/katchum/11693.hw0.git</connection>
+		<developerConnection>scm:git:git@github.com:katchum/11693.hw0.git</developerConnection>
 	  <tag>hw0-xings-0.0.1</tag>
   </scm>
 	<repositories>
