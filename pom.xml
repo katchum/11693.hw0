@@ -45,7 +45,7 @@ course-releases</url>
 							<goal>perform</goal>
 						</goals>
 						<configuration>
-							<pomFileName>hw0-ANDREW_ID/pom.xml</pomFileName>
+							<pomFileName>hw0-xings/pom.xml</pomFileName>
 						</configuration>
 					</execution>
 				</executions>
